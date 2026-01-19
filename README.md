@@ -4,5 +4,5 @@ This contains themes for
 - SwayFX (of course)
 - Mako
 - Waybar
-- Fuzzel
+- Fuzzel  
 If you would like configs for anything else just create an issue and i'll probably add it.
