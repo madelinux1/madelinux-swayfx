@@ -21,7 +21,7 @@ set $right l
 set $term kitty
 # Your preferred application launcher
 set $menu fuzzel
-set $browser librewolf
+set $browser firefox
 
 ### Output configuration
 #
